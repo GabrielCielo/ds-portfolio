@@ -7,4 +7,4 @@ Por enquanto tenho dois projetos que desenvolvi por conta própria a partir de D
 - Modelo de Regressão para a predição dos preços de imóveis na região de King County nos Estados Unidos.
 - Modelo de Classificação para a predição de doenças cardíacas.
 
-Dentro da respectiva pasta de cada projeto encontra-se uma explicação detalhada sobre cada um dos trabalhos.
+Dentro da respectiva pasta de cada projeto encontra-se uma explicação detalhada sobre cada.

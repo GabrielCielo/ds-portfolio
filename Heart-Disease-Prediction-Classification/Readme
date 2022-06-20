@@ -6,7 +6,7 @@ Objetivos do projeto:
 desbalanceadas (uma classe possui muito mais instâncias do que a outra) e um outro modelo onde a variável dependente é 
 manipulada para obtermos a mesma quantidade de instânciaspara ambas classes;
 
-## Metodologia:
+Metodologia:
 
 - Realizamos praticamente o mesmo passo a passo para os dois casos de forma a evidenciar as diferenças em resultados;
 - O teste final foi obrigatóriamente feito com o Dataset original (desbalanceado);

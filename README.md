@@ -3,8 +3,8 @@ Olá, me chamo Gabriel Cielo. Sou Engenheiro Civil de formação, professor de i
 Neste repositório você encontrará os projetos que integram o meu portfólio, cujo intuito é servir de respaldo para as habilidades que eu desenvolvi
 durante o meu tempo de estudo.
 
-Por enquanto tenho 4 projetos que desenvolvi por conta própria a partir de Datasets presentes no Kaggle ou da realização de cursos on-line:
-- Modelo de Classificação para determinar se uma multa será paga na cidade de Detroit, Chicago (projeto final no curso de Machine Learning Aplicada, oferecida online pela Universidade de Michigan através da plataforme Coursera);
+Por enquanto tenho 3 projetos que desenvolvi por conta própria a partir de Datasets presentes no Kaggle ou da realização de cursos on-line:
+
 - Trabalho majoritariamente de Análise Exploratória de Dados para determinar quais fatores mais influenciam a expectativa de vida das populações (em inglês).
 - Modelo de Regressão para a predição dos preços de imóveis na região de King County nos Estados Unidos.
 - Modelo de Classificação para a predição de doenças cardíacas.

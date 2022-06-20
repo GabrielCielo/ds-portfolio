@@ -1,0 +1,15 @@
+Objetivos do projeto:
+
+
+- Criar um modelo de Machine Learning capaz de prever se uma pessoa possui doença cardíaca a partir dos dados;
+- Observar a diferença entre um modelo que é treinado a partir de um dataset onde as classes target do problema estão
+desbalanceadas (uma classe possui muito mais instâncias do que a outra) e um outro modelo onde a variável dependente é 
+manipulada para obtermos a mesma quantidade de instânciaspara ambas classes;
+
+## Metodologia:
+
+- Realizamos praticamente o mesmo passo a passo para os dois casos de forma a evidenciar as diferenças em resultados;
+- O teste final foi obrigatóriamente feito com o Dataset original (desbalanceado);
+
+
+Explicações em detalhes sobre as decisões tomadas durante o projeto estão presentes no Notebook.

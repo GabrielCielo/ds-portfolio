@@ -1,0 +1,46 @@
+This project was developed from a dataset which can be found in https://www.kaggle.com/kumarajarshi/life-expectancy-who
+The dataset contains data from 2000 to 2015 for 193 countries and a description of each feature is shown below. 
+Our target feature will be Life Expectancy, which we aim to predict through use of a Machine Learning Model.
+
+Column Description:
+
+Country	Country
+Year	Year
+Status	Developed or Developing status
+Life expectancy	Life Expectancy in age
+Adult Mortality	Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
+infant deaths	Number of Infant Deaths per 1000 population
+Alcohol	Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
+percentage expenditure	Expenditure on health as a percene of Gross Domestic Product per capita(%)
+Hepatitis B	Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
+Measles	Measles - number of reported cases per 1000 population
+BMI	Average Body Mass Index of entire population
+under-five deaths	Number of under-five deaths per 1000 population
+Polio	Polio (Pol3) immunization coverage among 1-year-olds (%)
+Total expenditure	General government expenditure on health as a percene of total government expenditure (%)
+Diphtheria	Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+HIV/AIDS	Deaths per 1 000 live births HIV/AIDS (0-4 years)
+GDP	Gross Domestic Product per capita (in USD)
+Population	Population of the country
+thinness 1-19 years	Prevalence of thinness among children and adolescents for Age 10 to 19 (%)
+thinness 5-9 years	Prevalence of thinness among children for Age 5 to 9(%)
+Income composition of resources	Income composition of resources
+Schooling	Number of years of Schooling(years)
+
+
+Through exploratory data analysis we were able to answer the following questions as well as developing a ML model which can predict the life expectancy of
+a certain country based on the features avaliable.
+
+Does various predicting factors which have been chosen initially really affect the Life expectancy? What are the predicting variables actually affecting the life expectancy?
+
+Should a country having a lower life expectancy value(<65) increase its healthcare expenditure in order to improve its average lifespan?
+
+How does Infant and Adult mortality rates affect life expectancy?
+
+Does Life Expectancy has positive or negative correlation with eating habits, lifestyle, exercise, smoking, drinking alcohol etc.
+
+What is the impact of schooling on the lifespan of humans?
+
+Does Life Expectancy have positive or negative relationship with drinking alcohol?
+
+What is the impact of Immunization coverage on life Expectancy?

@@ -1,4 +1,4 @@
-Olá, me chamo Gabriel Cielo. Sou Engenheiro Civil de formação, professor de inglês e no momento estou estudando para ingressar na área de Ciência de Dados.
+Olá, me chamo Gabriel Cielo. Sou Engenheiro Civil de formação e no momento estou estudando para ingressar na área de Ciência de Dados.
 
 Neste repositório você encontrará os projetos que integram o meu portfólio, cujo intuito é servir de respaldo para as habilidades que eu desenvolvi
 durante o meu tempo de estudo.
